@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "userLoginPro"
+    }
+  },
+  "defaultProject": "userLoginPro",
+  "cli": {
+    "analytics": false
+  }
 }
